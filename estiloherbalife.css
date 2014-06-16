@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+#nb {background-color:#09C; height:50px; font-size:20px; text-align:left;}
+#sb {background-color:#0CF; height:50px; font-size:20px; text-align:left;}
+#ni {background-color:#09C; height:50px; font-size:20px; text-align:left; }
+#nes {background-color:#09C; height:50px; font-size:20px; text-align:left;}
+#nex {background-color:#0CF; height:50px; font-size:20px; text-align:left;}
+#somos {border:double 4px; background-color:#9C0; text-align:justify}
+h2 {color:#FFF}
+h3 { color:#9C0}
+#mensaje { background-color:#FFF; border:double; text-align:justify; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+
+#titulo {background-color:#096;}
+#nombre {background-color:#9C3; width:15%; height:25px; float:left; text-align:center; font-family:"Lucida Console", Monaco, monospace;}
+#imagen {background-color:#9C3; width:40%; height:25px; float:left; text-align:center; font-family:"Lucida Console", Monaco, monospace;}
+#descripcion {background-color:#9C3; width:30%; height:25px; float:left; text-align:center; font-family:"Lucida Console", Monaco, monospace;}
+#precio {background-color:#9C3; width:15%; height:25px; float:left; text-align:center; font-family:"Lucida Console", Monaco, monospace;}
+
+#nutribasica { border:double 2px #99CC00;}
+#suplementos { border:double 2px #99CC00;}
+#nutriinfan { border:double 2px #99CC00;}
+#nutriexterna { border:double 2px #99CC00;}
+#nutriesp { border:double 2px #99CC00;}
+#contenido {border:double 2px #006;}
+#mark {border:double 2px #009900;text-align:justify; border:double #0C0 2px; font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; background-color:#FFF;}
+#imgmark {margin:3px; width:100%;}
+
+#nombrechocomix {width:15%; height:auto; background:#9CF; float:left; height:200px}
+#imgchocomix {background-color:#FFF; width:40%; float:left; height:200px}
+#descripchoco {width:30%; float:left; background-color:#09C; height:200px; text-align:justify}
+#preciochoco {width:15%; background-color:#9CF; float:left; height:200px; text-align:center;}
+
+#nombrebarraexpress {width:15%; height:auto; background:#09C; float:left; height:255px}
+#imgbarraexpress {background-color:#FFF; width:40%; float:left; height:255px}
+#descripbarra {width:30%; float:left; background-color:#9CF; height:255px; text-align:justify}
+#preciobarra {width:15%; background-color:#09C; float:left; height:255px; text-align:center;}
+
+#nombreprolessa {width:15%; height:auto; background:#9CF; float:left; height:230px}
+#imgprolessa {background-color:#FFF; width:40%; float:left; height:230px}
+#descripprolessa {width:30%; float:left; background-color:#09C; height:230px; text-align:justify}
+#precioprolessa {width:15%; background-color:#9CF; float:left; height:230px; text-align:center;}
+
+#nombrextrashake {width:15%; height:auto; background:#09C; float:left; height:200px}
+#imgxtrashake {background-color:#FFF; width:40%; float:left; height:200px}
+#descripxtrashake {width:30%; float:left; background-color:#9CF; height:200px; text-align:justify}
+#precioxtrashake {width:15%; background-color:#09C; float:left; height:200px; text-align:center;}
+
+#nombrenum2 {width:15%; height:auto; background:#9CF; float:left; height:200px}
+#imgnum2 {background-color:#FFF; width:40%; float:left; height:200px}
+#descripnum2 {width:30%; float:left; background-color:#09C; height:200px; text-align:justify}
+#precionum2 {width:15%; background-color:#9CF; float:left; height:200px; text-align:center;}
+
+#nombrecell {width:15%; height:auto; background:#09C; float:left; height:250px}
+#imgcell {background-color:#FFF; width:40%; float:left; height:250px}
+#descripcell {width:30%; float:left; background-color:#9CF; height:250px; text-align:justify}
+#preciocell {width:15%; background-color:#09C; float:left; height:250px; text-align:center;}
+
+
+
+#nombreconcentrado {width:15%; height:auto; background:#F99; float:left; height:250px}
+#imgconcentrado {background-color:#FFF; width:40%; float:left; height:250px}
+#descripconcentrado {width:30%; float:left; background-color:#FCC; height:250px; text-align:justify}
+#precioconcentrado {width:15%; background-color:#F99; float:left; height:250px; text-align:center;}
+
+
+#nombrenrg {width:15%; height:auto; background:#FCC; float:left; height:250px}
+#imgnrg {background-color:#FFF; width:40%; float:left; height:250px}
+#descripnrg {width:30%; float:left; background-color:#F99; height:250px; text-align:justify}
+#precionrg {width:15%; background-color:#FCC; float:left; height:250px; text-align:center;}
+
+#nombreproteina {width:15%; height:auto; background:#F99; float:left; height:250px}
+#imgproteina {background-color:#FFF; width:40%; float:left; height:250px}
+#descripproteina {width:30%; float:left; background-color:#FCC; height:250px; text-align:justify}
+#precioproteina {width:15%; background-color:#F99; float:left; height:250px; text-align:center;}
+
+#nombrebarras {width:15%; height:auto; background:#FCC; float:left; height:250px}
+#imgbarras {background-color:#FFF; width:40%; float:left; height:250px}
+#descripbarras {width:30%; float:left; background-color:#F99; height:250px; text-align:justify}
+#preciobarras {width:15%; background-color:#FCC; float:left; height:250px; text-align:center;}
+
+#nombrebatido {width:15%; height:auto; background:#F99; float:left; height:250px}
+#imgbatido {background-color:#FFF; width:40%; float:left; height:250px}
+#descripbatido {width:30%; float:left; background-color:#FCC; height:250px; text-align:justify}
+#preciobatido {width:15%; background-color:#F99; float:left; height:250px; text-align:center;}
+
+#nombreamino {width:15%; height:auto; background:#FCC; float:left; height:280px}
+#imgamino {background-color:#FFF; width:40%; float:left; height:280px}
+#descripamino {width:30%; float:left; background-color:#F99; height:280px; text-align:justify}
+#precioamino {width:15%; background-color:#FCC; float:left; height:280px; text-align:center;}
+
+#nombrecellu {width:15%; height:auto; background:#F99; float:left; height:280px}
+#imgcellu {background-color:#FFF; width:40%; float:left; height:280px}
+#descripcellu {width:30%; float:left; background-color:#FCC; height:280px; text-align:justify}
+#preciocellu {width:15%; background-color:#F99; float:left; height:280px; text-align:center;}
+
+#nombretotal {width:15%; height:auto; background:#FCC; float:left; height:250px}
+#imgtotal {background-color:#FFF; width:40%; float:left; height:250px}
+#descriptotal {width:30%; float:left; background-color:#F99; height:250px; text-align:justify}
+#preciototal {width:15%; background-color:#FCC; float:left; height:250px; text-align:center;}
+
+#nombrebebidas {width:15%; height:auto; background:#F99; float:left; height:250px}
+#imgbebidas {background-color:#FFF; width:40%; float:left; height:250px}
+#descripbebidas {width:30%; float:left; background-color:#FCC; height:250px; text-align:justify}
+#preciobebidas {width:15%; background-color:#F99; float:left; height:250px; text-align:center;}
+
+#nombrekidsshake {width:15%; height:auto; background:#FC6; float:left; height:220px}
+#imgkidsshake {background-color:#FFF; width:40%; float:left; height:220px}
+#descripkidsshake {width:30%; float:left; background-color:#FF9; height:220px; text-align:justify}
+#preciokidsshake {width:15%; background-color:#FC6; float:left; height:220px; text-align:center;}
+
+#nombrekinder {width:15%; height:auto; background:#FF9; float:left; height:220px}
+#imgkinder {background-color:#FFF; width:40%; float:left; height:220px}
+#descripkinder {width:30%; float:left; background-color:#FC6; height:220px; text-align:justify}
+#preciokinder {width:15%; background-color:#FF9; float:left; height:220px; text-align:center;}
+
+#nombrebond {width:15%; height:auto; background:#099; float:left; height:220px}
+#imgbond {background-color:#FFF; width:40%; float:left; height:220px}
+#descripbond {width:30%; float:left; background-color:#CFC; height:220px; text-align:justify}
+#preciobond {width:15%; background-color:#099; float:left; height:220px; text-align:center;}
+
+#nombreactive {width:15%; height:auto; background:#CFC; float:left; height:220px}
+#imgactive {background-color:#FFF; width:40%; float:left; height:220px}
+#descripactive {width:30%; float:left; background-color:#099; height:220px; text-align:justify}
+#precioactive {width:15%; background-color:#CFC; float:left; height:220px; text-align:center;}
+
+#nombreflora {width:15%; height:auto; background:#099; float:left; height:220px}
+#imgflora {background-color:#FFF; width:40%; float:left; height:220px}
+#descripflora {width:30%; float:left; background-color:#CFC; height:220px; text-align:justify}
+#precioflora {width:15%; background-color:#099; float:left; height:220px; text-align:center;}
+
+#nombrealoe {width:15%; height:auto; background:#CFC; float:left; height:220px}
+#imgaloe {background-color:#FFF; width:40%; float:left; height:220px}
+#descripaloe {width:30%; float:left; background-color:#099; height:220px; text-align:justify}
+#precioaloe {width:15%; background-color:#CFC; float:left; height:220px; text-align:center;}
+
+#nombrearandano {width:15%; height:auto; background:#099; float:left; height:220px}
+#imgarandano {background-color:#FFF; width:40%; float:left; height:220px}
+#descriparandano {width:30%; float:left; background-color:#CFC; height:220px; text-align:justify}
+#precioarandano {width:15%; background-color:#099; float:left; height:220px; text-align:center;}
+
+#nombreplus {width:15%; height:auto; background:#CFC; float:left; height:220px}
+#imgplus {background-color:#FFF; width:40%; float:left; height:220px}
+#descripplus {width:30%; float:left; background-color:#099; height:220px; text-align:justify}
+#precioplus {width:15%; background-color:#CFC; float:left; height:220px; text-align:center;}
+
+#nombrerose {width:15%; height:auto; background:#099; float:left; height:220px}
+#imgrose {background-color:#FFF; width:40%; float:left; height:220px}
+#descriprose {width:30%; float:left; background-color:#CFC; height:220px; text-align:justify}
+#preciorose {width:15%; background-color:#099; float:left; height:220px; text-align:center;}
+
+#nombreprelox {width:15%; height:auto; background:#CFC; float:left; height:220px}
+#imgprelox {background-color:#FFF; width:40%; float:left; height:220px}
+#descripprelox {width:30%; float:left; background-color:#099; height:220px; text-align:justify}
+#precioprelox {width:15%; background-color:#CFC; float:left; height:220px; text-align:center;}
+
+#nombrecal {width:15%; height:auto; background:#099; float:left; height:220px}
+#imgcal {background-color:#FFF; width:40%; float:left; height:220px}
+#descripcal {width:30%; float:left; background-color:#CFC; height:220px; text-align:justify}
+#preciocal {width:15%; background-color:#099; float:left; height:220px; text-align:center;}
+
+#nombretang {width:15%; height:auto; background:#CFC; float:left; height:220px}
+#imgtang {background-color:#FFF; width:40%; float:left; height:220px}
+#descriptang {width:30%; float:left; background-color:#099; height:220px; text-align:justify}
+#preciotang {width:15%; background-color:#CFC; float:left; height:220px; text-align:center;}
+
+#nombreskin {width:15%; height:auto; background:#96C; float:left; height:230px}
+#imgskin {background-color:#FFF; width:40%; float:left; height:230px}
+#descripskin {width:30%; float:left; background-color:#99C; height:230px; text-align:justify}
+#precioskin {width:15%; background-color:#96C; float:left; height:230px; text-align:center;}
+
+#nombreradiant {width:15%; height:auto; background:#99C; float:left; height:300px}
+#imgradiant {background-color:#FFF; width:40%; float:left; height:300px}
+#descripradiant {width:30%; float:left; background-color:#96C; height:300px; text-align:justify}
+#precioradiant {width:15%; background-color:#99C; float:left; height:300px; text-align:center;}
